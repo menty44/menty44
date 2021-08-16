@@ -6,6 +6,6 @@
 
 ✨ Outside tech, I am an avid **artist (Tattooist)**, **skating** .
 
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menty44&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="Jacksiro's github stats" src="https://github-readme-stats.vercel.app/api?username=jacksiro254&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menty44&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="Fredrick's github stats" src="https://github-readme-stats.vercel.app/api?username=menty44&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=menty44&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
