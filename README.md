@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/a2582afa-7bc0-43e8-8608-2e6c5877ee70.svg)](https://wakatime.com/@a2582afa-7bc0-43e8-8608-2e6c5877ee70)
+
 ### 👋 Hello there, I am a self taught software developer from Nairobi, Kenya. Foremost, I just ❤ to open source, [vs code](https://code.visualstudio.com), [jet brains](https://www.jetbrains.com/) and the [swahili language](https://en.wikipedia.org/wiki/Swahili_language)! [![Github](https://img.shields.io/github/followers/menty44?label=Follow&style=social)](https://github.com/menty44) ![](https://komarev.com/ghpvc/?username=menty44&label=Views)
 
 🔭 My vast experience spans from Java(Spring boot), Elixir, Nodejs, Nestjs, Laravel, novice android and novice Golang. 
