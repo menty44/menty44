@@ -2,7 +2,7 @@
 
 ### 👋 Hello there, I am a self taught software developer from Nairobi, Kenya. Foremost, I just ❤ to open source, [vs code](https://code.visualstudio.com), [jet brains](https://www.jetbrains.com/) and the [swahili language](https://en.wikipedia.org/wiki/Swahili_language)! [![Github](https://img.shields.io/github/followers/menty44?label=Follow&style=social)](https://github.com/menty44) ![](https://komarev.com/ghpvc/?username=menty44&label=Views)
 
-🔭 My vast experience spans from Java(Spring boot), Elixir, Nodejs, Nestjs, Laravel, novice android and novice Golang. 
+🔭 My vast experience spans from Java(Spring boot), Elixir, Nodejs, Nestjs, Laravel, Angular, React, NestJS, novice android and novice Golang. 
 
 ⚡ I have worked with cloud platforms such as linode, digital ocean, contabo, aws and gcp making use of git version controls along the way. Having good understanding and experience with restful apis and also oop principles is not something I take for granted in my developer career. Currently I am working to build futuristic cross platform products.
 
